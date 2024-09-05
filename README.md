@@ -3,6 +3,7 @@ Hi, I’m @maksymmmmmm
 - I made a few games using Godot Engine, Pygame and Blender Game Engine
 - I have a YouTube channel: https://www.youtube.com/@maksymmomot/videos
 - Also I have an Itch.io page for some of my games: https://maksym-game.itch.io/
+- And my Algotester account: https://algotester.com/en/Account/Display/567898
 
 <!---
 maksymmmmmm/maksymmmmmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
